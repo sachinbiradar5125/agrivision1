@@ -1,0 +1,23 @@
+{
+  "short_name": "AgriVision AI",
+  "name": "AgriVision AI - Precision Agriculture & Crop Diagnostics",
+  "description": "Smart AI-powered crop diagnostics, voice agronomist, field task tracking, and offline field advice.",
+  "icons": [
+    {
+      "src": "https://lh3.googleusercontent.com/aida-public/AB6AXuCk_iF6mT3IWHDKNw0ihZooRIyJnfawHWrK4Qd2k6dy9Z5EvqQldrbGoPgjNCPtQElMvlTCzGsJFN_6k1_x6SFlfBBJuD1b4UHsCY-y6hUGTpdNe73MfGWEN8W7-aqlkpn4-6w0m-xugapb6HDWMktn52pleqYysqk83t56EwO4fG-MeyBEvlHp0Ct37vBBlUzOjOChvaBQJxHtodvUY3mXLK0uUZw9RXv9r7uPVTeN60F3b-cgqkep",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/aida-public/AB6AXuCk_iF6mT3IWHDKNw0ihZooRIyJnfawHWrK4Qd2k6dy9Z5EvqQldrbGoPgjNCPtQElMvlTCzGsJFN_6k1_x6SFlfBBJuD1b4UHsCY-y6hUGTpdNe73MfGWEN8W7-aqlkpn4-6w0m-xugapb6HDWMktn52pleqYysqk83t56EwO4fG-MeyBEvlHp0Ct37vBBlUzOjOChvaBQJxHtodvUY3mXLK0uUZw9RXv9r7uPVTeN60F3b-cgqkep",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#f8faf5",
+  "theme_color": "#166534",
+  "display": "standalone",
+  "orientation": "portrait",
+  "categories": ["agriculture", "productivity", "utilities"]
+}

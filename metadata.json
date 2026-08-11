@@ -1,0 +1,6 @@
+{
+  "name": "AgriVision AI",
+  "description": "Precision AI crop health scanner, disease diagnosis, field manager, weather advisories, and interactive AI farming assistant for modern agriculture.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
